@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eCommerce.ShoppingCartLocalStorage\eCommerce.ShoppingCart.LocalStorage.csproj" />
+    <ProjectReference Include="..\eCommerce.Web.Modules\eCommerce.Web.AdminPortal\eCommerce.Web.AdminPortal.csproj" />
+    <ProjectReference Include="..\eCommerce.Web.Modules\eCommerce.Web.CustomerPortal\eCommerce.Web.CustomerPortal.csproj" />
+    <ProjectReference Include="..\Plugins\eCommerce.DataStore.HardCoded\eCommerce.DataStore.HardCoded.csproj" />
+    <ProjectReference Include="..\Plugins\eCommerce.StateStore.DI\eCommerce.StateStore.DI.csproj" />
+  </ItemGroup>
+
+</Project>

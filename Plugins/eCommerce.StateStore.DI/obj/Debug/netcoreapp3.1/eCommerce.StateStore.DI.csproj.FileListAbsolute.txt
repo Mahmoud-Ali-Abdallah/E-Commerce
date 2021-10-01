@@ -1,0 +1,14 @@
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\bin\Debug\netcoreapp3.1\eCommerce.StateStore.DI.deps.json
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\bin\Debug\netcoreapp3.1\eCommerce.StateStore.DI.dll
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\bin\Debug\netcoreapp3.1\eCommerce.StateStore.DI.pdb
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\bin\Debug\netcoreapp3.1\eCommerce.CoreBusiness.dll
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\bin\Debug\netcoreapp3.1\eCommerce.UseCases.dll
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\bin\Debug\netcoreapp3.1\eCommerce.UseCases.pdb
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\bin\Debug\netcoreapp3.1\eCommerce.CoreBusiness.pdb
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\obj\Debug\netcoreapp3.1\eCommerce.StateStore.DI.csprojAssemblyReference.cache
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\obj\Debug\netcoreapp3.1\eCommerce.StateStore.DI.AssemblyInfoInputs.cache
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\obj\Debug\netcoreapp3.1\eCommerce.StateStore.DI.AssemblyInfo.cs
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\obj\Debug\netcoreapp3.1\eCommerce.StateStore.DI.csproj.CoreCompileInputs.cache
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\obj\Debug\netcoreapp3.1\eCommerce.StateStore.DI.csproj.CopyComplete
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\obj\Debug\netcoreapp3.1\eCommerce.StateStore.DI.dll
+C:\My Work\Study Blazor\Projects\eCommerce\Plugins\eCommerce.StateStore.DI\obj\Debug\netcoreapp3.1\eCommerce.StateStore.DI.pdb

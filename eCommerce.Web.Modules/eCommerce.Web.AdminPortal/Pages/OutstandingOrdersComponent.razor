@@ -1,0 +1,33 @@
+﻿@page "/outstandingorders"
+@page "/admin"
+
+@attribute [Authorize]
+
+@inject IViewOutstandingOrderUseCase viewOutstandingOrderUseCase
+
+<AuthorizeView Roles="Admin">
+
+    <Authorized>
+        <h3>Outstanding Orders</h3>
+        <br />
+        <eCommerce.Web.AdminPortal.Controls.OrderListComponent Orders="orders"></eCommerce.Web.AdminPortal.Controls.OrderListComponent>
+
+    </Authorized>
+    <NotAuthorized>
+        <!--Diplay unauthorized page-->
+        <p> unauthorized </p>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+
+    private IEnumerable<Order> orders;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        orders = viewOutstandingOrderUseCase.Execute();
+    }
+
+}

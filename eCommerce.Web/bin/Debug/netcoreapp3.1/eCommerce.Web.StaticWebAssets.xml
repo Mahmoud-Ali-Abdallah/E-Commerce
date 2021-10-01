@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/eCommerce.ShoppingCart.LocalStorage" Path="C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.ShoppingCartLocalStorage\wwwroot\" />
+  <ContentRoot BasePath="_content/eCommerce.Web.AdminPortal" Path="C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.Web.Modules\eCommerce.Web.AdminPortal\wwwroot\" />
+  <ContentRoot BasePath="_content/eCommerce.Web.Common" Path="C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.Web.Modules\eCommerce.Web.Common\wwwroot\" />
+  <ContentRoot BasePath="_content/eCommerce.Web.CustomerPortal" Path="C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.Web.Modules\eCommerce.Web.CustomerPortal\wwwroot\" />
+</StaticWebAssets>

@@ -1,0 +1,601 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web\\eCommerce.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj",
+        "projectName": "eCommerce.CoreBusiness",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.ShoppingCartLocalStorage\\eCommerce.ShoppingCart.LocalStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.ShoppingCartLocalStorage\\eCommerce.ShoppingCart.LocalStorage.csproj",
+        "projectName": "eCommerce.ShoppingCart.LocalStorage",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.ShoppingCartLocalStorage\\eCommerce.ShoppingCart.LocalStorage.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.ShoppingCartLocalStorage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj",
+        "projectName": "eCommerce.UseCases",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.AdminPortal\\eCommerce.Web.AdminPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.AdminPortal\\eCommerce.Web.AdminPortal.csproj",
+        "projectName": "eCommerce.Web.AdminPortal",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.AdminPortal\\eCommerce.Web.AdminPortal.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.AdminPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj"
+              },
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj"
+              },
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.Common\\eCommerce.Web.Common.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.Common\\eCommerce.Web.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.Common\\eCommerce.Web.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.Common\\eCommerce.Web.Common.csproj",
+        "projectName": "eCommerce.Web.Common",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.Common\\eCommerce.Web.Common.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.CustomerPortal\\eCommerce.Web.CustomerPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.CustomerPortal\\eCommerce.Web.CustomerPortal.csproj",
+        "projectName": "eCommerce.Web.CustomerPortal",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.CustomerPortal\\eCommerce.Web.CustomerPortal.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.CustomerPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.CoreBusiness\\eCommerce.CoreBusiness.csproj"
+              },
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj"
+              },
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.Common\\eCommerce.Web.Common.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.Common\\eCommerce.Web.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web\\eCommerce.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web\\eCommerce.Web.csproj",
+        "projectName": "eCommerce.Web",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web\\eCommerce.Web.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.ShoppingCartLocalStorage\\eCommerce.ShoppingCart.LocalStorage.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.ShoppingCartLocalStorage\\eCommerce.ShoppingCart.LocalStorage.csproj"
+              },
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.AdminPortal\\eCommerce.Web.AdminPortal.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.AdminPortal\\eCommerce.Web.AdminPortal.csproj"
+              },
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.CustomerPortal\\eCommerce.Web.CustomerPortal.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.CustomerPortal\\eCommerce.Web.CustomerPortal.csproj"
+              },
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.DataStore.HardCoded\\eCommerce.DataStore.HardCoded.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.DataStore.HardCoded\\eCommerce.DataStore.HardCoded.csproj"
+              },
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.StateStore.DI\\eCommerce.StateStore.DI.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.StateStore.DI\\eCommerce.StateStore.DI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.DataStore.HardCoded\\eCommerce.DataStore.HardCoded.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.DataStore.HardCoded\\eCommerce.DataStore.HardCoded.csproj",
+        "projectName": "eCommerce.DataStore.HardCoded",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.DataStore.HardCoded\\eCommerce.DataStore.HardCoded.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.DataStore.HardCoded\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.StateStore.DI\\eCommerce.StateStore.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.StateStore.DI\\eCommerce.StateStore.DI.csproj",
+        "projectName": "eCommerce.StateStore.DI",
+        "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.StateStore.DI\\eCommerce.StateStore.DI.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+        "outputPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\Plugins\\eCommerce.StateStore.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj": {
+                "projectPath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.UseCases\\eCommerce.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

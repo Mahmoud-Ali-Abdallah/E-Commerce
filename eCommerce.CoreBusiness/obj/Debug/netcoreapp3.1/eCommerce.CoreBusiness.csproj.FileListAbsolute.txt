@@ -1,0 +1,9 @@
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\bin\Debug\netcoreapp3.1\eCommerce.CoreBusiness.deps.json
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\bin\Debug\netcoreapp3.1\eCommerce.CoreBusiness.dll
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\bin\Debug\netcoreapp3.1\eCommerce.CoreBusiness.pdb
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\obj\Debug\netcoreapp3.1\eCommerce.CoreBusiness.csprojAssemblyReference.cache
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\obj\Debug\netcoreapp3.1\eCommerce.CoreBusiness.AssemblyInfoInputs.cache
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\obj\Debug\netcoreapp3.1\eCommerce.CoreBusiness.AssemblyInfo.cs
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\obj\Debug\netcoreapp3.1\eCommerce.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\obj\Debug\netcoreapp3.1\eCommerce.CoreBusiness.dll
+C:\My Work\Study Blazor\Projects\eCommerce\eCommerce.CoreBusiness\obj\Debug\netcoreapp3.1\eCommerce.CoreBusiness.pdb

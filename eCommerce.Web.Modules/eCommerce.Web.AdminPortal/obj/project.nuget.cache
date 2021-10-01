@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9rBIhB1FQecUQkpea79MrWyb04bRHLMSbqCwcGxrpqhoNN/1NJKOPxzk7KnMYzsadmQLUEdYaVqZFjwAhQyNg==",
+  "success": true,
+  "projectFilePath": "C:\\My Work\\Study Blazor\\Projects\\eCommerce\\eCommerce.Web.Modules\\eCommerce.Web.AdminPortal\\eCommerce.Web.AdminPortal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.15\\microsoft.aspnetcore.authorization.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.15\\microsoft.aspnetcore.components.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.15\\microsoft.aspnetcore.components.analyzers.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\3.1.6\\microsoft.aspnetcore.components.authorization.3.1.6.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.15\\microsoft.aspnetcore.components.forms.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.15\\microsoft.aspnetcore.components.web.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.15\\microsoft.aspnetcore.metadata.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.15\\microsoft.extensions.dependencyinjection.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.15\\microsoft.extensions.dependencyinjection.abstractions.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.15\\microsoft.extensions.logging.abstractions.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.extensions.options\\3.1.15\\microsoft.extensions.options.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.15\\microsoft.extensions.primitives.3.1.15.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.jsinterop\\3.1.15\\microsoft.jsinterop.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
